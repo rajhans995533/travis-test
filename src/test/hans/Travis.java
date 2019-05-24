@@ -22,5 +22,8 @@
         System.out.println("Hello Travis App");
         
     }
+    public void sum() {
+        System.out.println("worked");
+    }
      
 }
